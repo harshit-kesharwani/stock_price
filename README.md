@@ -8,7 +8,7 @@ We will determine the Month’s High and Low with help of data mining algorithms
 In this project we are going to take a five years of stock data for our analysis and prediction.
 
 
-# Research work under Springer publication
+# Research work published with springer: https://link.springer.com/chapter/10.1007/978-981-99-5974-7_45 
 # Research Contributors: 
 Aakash Nakarmi : https://www.linkedin.com/in/aakash-nakarmi-629b5b209/
 Tamoshree Mallick: https://www.linkedin.com/in/tamoshree-mallick-642033219/
