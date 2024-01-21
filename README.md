@@ -1,4 +1,4 @@
-# Stock_market_prediction
+# Stock_Price_prediction
 Problem Statement: Stock Market Analysis and Prediction
 
 Explanation: Our aim is to create software that analyses previous stock data of certain companies,
